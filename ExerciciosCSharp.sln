@@ -3,13 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31702.278
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExercicioLogica01", "ExerciciosCSharp\ExercicioLogica01.csproj", "{62610E01-3660-4D42-9782-F82D55DE70ED}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercicio1.1", "ExerciciosCSharp\Exercicio1.1.csproj", "{62610E01-3660-4D42-9782-F82D55DE70ED}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Secao01", "Secao01", "{956F8D7C-D65F-4833-8341-ACDC3E303FD3}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExercicioLogica02", "ExercicioLogica02\ExercicioLogica02.csproj", "{DC153925-8661-4E19-8310-1EB396258487}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercicio1.2", "ExercicioLogica02\Exercicio1.2.csproj", "{DC153925-8661-4E19-8310-1EB396258487}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercicioLogica03", "ExercicioLogica03\ExercicioLogica03.csproj", "{4CED677D-9F75-45DA-A4AA-37E949804598}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio2.1", "ExercicioLogica03\Exercicio2.1.csproj", "{4CED677D-9F75-45DA-A4AA-37E949804598}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio2.2 - Corrigir", "Exercicio2.2\Exercicio2.2 - Corrigir.csproj", "{B388143C-DCBB-4EB7-A863-FAE192F5EE2A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -29,6 +31,10 @@ Global
 		{4CED677D-9F75-45DA-A4AA-37E949804598}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4CED677D-9F75-45DA-A4AA-37E949804598}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4CED677D-9F75-45DA-A4AA-37E949804598}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B388143C-DCBB-4EB7-A863-FAE192F5EE2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B388143C-DCBB-4EB7-A863-FAE192F5EE2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B388143C-DCBB-4EB7-A863-FAE192F5EE2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B388143C-DCBB-4EB7-A863-FAE192F5EE2A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -37,6 +43,7 @@ Global
 		{62610E01-3660-4D42-9782-F82D55DE70ED} = {956F8D7C-D65F-4833-8341-ACDC3E303FD3}
 		{DC153925-8661-4E19-8310-1EB396258487} = {956F8D7C-D65F-4833-8341-ACDC3E303FD3}
 		{4CED677D-9F75-45DA-A4AA-37E949804598} = {956F8D7C-D65F-4833-8341-ACDC3E303FD3}
+		{B388143C-DCBB-4EB7-A863-FAE192F5EE2A} = {956F8D7C-D65F-4833-8341-ACDC3E303FD3}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {1A1EE13F-7B42-4CDE-8670-784BCB373EAA}
