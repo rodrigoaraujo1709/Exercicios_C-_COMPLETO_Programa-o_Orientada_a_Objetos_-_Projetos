@@ -1,0 +1,16 @@
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioCond07\bin\Debug\net5.0\ExercicioCond07.exe
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioCond07\bin\Debug\net5.0\ExercicioCond07.deps.json
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioCond07\bin\Debug\net5.0\ExercicioCond07.runtimeconfig.json
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioCond07\bin\Debug\net5.0\ExercicioCond07.runtimeconfig.dev.json
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioCond07\bin\Debug\net5.0\ExercicioCond07.dll
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioCond07\bin\Debug\net5.0\ref\ExercicioCond07.dll
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioCond07\bin\Debug\net5.0\ExercicioCond07.pdb
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioCond07\obj\Debug\net5.0\ExercicioCond07.csproj.AssemblyReference.cache
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioCond07\obj\Debug\net5.0\ExercicioCond07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioCond07\obj\Debug\net5.0\ExercicioCond07.AssemblyInfoInputs.cache
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioCond07\obj\Debug\net5.0\ExercicioCond07.AssemblyInfo.cs
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioCond07\obj\Debug\net5.0\ExercicioCond07.csproj.CoreCompileInputs.cache
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioCond07\obj\Debug\net5.0\ExercicioCond07.dll
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioCond07\obj\Debug\net5.0\ref\ExercicioCond07.dll
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioCond07\obj\Debug\net5.0\ExercicioCond07.pdb
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioCond07\obj\Debug\net5.0\ExercicioCond07.genruntimeconfig.cache
