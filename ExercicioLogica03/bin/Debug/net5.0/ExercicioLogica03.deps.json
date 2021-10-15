@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ExercicioLogica03/1.0.0": {
+        "runtime": {
+          "ExercicioLogica03.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExercicioLogica03/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

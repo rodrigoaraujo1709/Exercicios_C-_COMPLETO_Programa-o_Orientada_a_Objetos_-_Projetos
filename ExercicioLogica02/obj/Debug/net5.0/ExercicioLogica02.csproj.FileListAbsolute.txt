@@ -1,0 +1,16 @@
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioLogica02\bin\Debug\net5.0\ExercicioLogica02.exe
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioLogica02\bin\Debug\net5.0\ExercicioLogica02.deps.json
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioLogica02\bin\Debug\net5.0\ExercicioLogica02.runtimeconfig.json
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioLogica02\bin\Debug\net5.0\ExercicioLogica02.runtimeconfig.dev.json
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioLogica02\bin\Debug\net5.0\ExercicioLogica02.dll
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioLogica02\bin\Debug\net5.0\ref\ExercicioLogica02.dll
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioLogica02\bin\Debug\net5.0\ExercicioLogica02.pdb
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioLogica02\obj\Debug\net5.0\ExercicioLogica02.csproj.AssemblyReference.cache
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioLogica02\obj\Debug\net5.0\ExercicioLogica02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioLogica02\obj\Debug\net5.0\ExercicioLogica02.AssemblyInfoInputs.cache
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioLogica02\obj\Debug\net5.0\ExercicioLogica02.AssemblyInfo.cs
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioLogica02\obj\Debug\net5.0\ExercicioLogica02.csproj.CoreCompileInputs.cache
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioLogica02\obj\Debug\net5.0\ExercicioLogica02.dll
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioLogica02\obj\Debug\net5.0\ref\ExercicioLogica02.dll
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioLogica02\obj\Debug\net5.0\ExercicioLogica02.pdb
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioLogica02\obj\Debug\net5.0\ExercicioLogica02.genruntimeconfig.cache
