@@ -1,0 +1,15 @@
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioWhile03\bin\Debug\net5.0\ExercicioWhile03.exe
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioWhile03\bin\Debug\net5.0\ExercicioWhile03.deps.json
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioWhile03\bin\Debug\net5.0\ExercicioWhile03.runtimeconfig.json
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioWhile03\bin\Debug\net5.0\ExercicioWhile03.runtimeconfig.dev.json
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioWhile03\bin\Debug\net5.0\ExercicioWhile03.dll
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioWhile03\bin\Debug\net5.0\ref\ExercicioWhile03.dll
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioWhile03\bin\Debug\net5.0\ExercicioWhile03.pdb
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioWhile03\obj\Debug\net5.0\ExercicioWhile03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioWhile03\obj\Debug\net5.0\ExercicioWhile03.AssemblyInfoInputs.cache
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioWhile03\obj\Debug\net5.0\ExercicioWhile03.AssemblyInfo.cs
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioWhile03\obj\Debug\net5.0\ExercicioWhile03.csproj.CoreCompileInputs.cache
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioWhile03\obj\Debug\net5.0\ExercicioWhile03.dll
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioWhile03\obj\Debug\net5.0\ref\ExercicioWhile03.dll
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioWhile03\obj\Debug\net5.0\ExercicioWhile03.pdb
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioWhile03\obj\Debug\net5.0\ExercicioWhile03.genruntimeconfig.cache
