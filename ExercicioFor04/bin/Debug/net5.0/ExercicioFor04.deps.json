@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ExercicioFor04/1.0.0": {
+        "runtime": {
+          "ExercicioFor04.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExercicioFor04/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
