@@ -1,0 +1,15 @@
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioFor02\bin\Debug\net5.0\ExercicioFor02.exe
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioFor02\bin\Debug\net5.0\ExercicioFor02.deps.json
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioFor02\bin\Debug\net5.0\ExercicioFor02.runtimeconfig.json
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioFor02\bin\Debug\net5.0\ExercicioFor02.runtimeconfig.dev.json
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioFor02\bin\Debug\net5.0\ExercicioFor02.dll
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioFor02\bin\Debug\net5.0\ref\ExercicioFor02.dll
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioFor02\bin\Debug\net5.0\ExercicioFor02.pdb
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioFor02\obj\Debug\net5.0\ExercicioFor02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioFor02\obj\Debug\net5.0\ExercicioFor02.AssemblyInfoInputs.cache
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioFor02\obj\Debug\net5.0\ExercicioFor02.AssemblyInfo.cs
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioFor02\obj\Debug\net5.0\ExercicioFor02.csproj.CoreCompileInputs.cache
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioFor02\obj\Debug\net5.0\ExercicioFor02.dll
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioFor02\obj\Debug\net5.0\ref\ExercicioFor02.dll
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioFor02\obj\Debug\net5.0\ExercicioFor02.pdb
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioFor02\obj\Debug\net5.0\ExercicioFor02.genruntimeconfig.cache

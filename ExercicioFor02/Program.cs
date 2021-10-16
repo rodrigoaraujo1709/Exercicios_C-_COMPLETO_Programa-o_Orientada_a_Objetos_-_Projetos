@@ -1,12 +1,11 @@
 ﻿using System;
 
-namespace Exercicio3._2
+namespace ExercicioFor02
 {
     class Program
     {
         static void Main(string[] args)
         {
-
             /*
              Leia um valor inteiro N. Este valor será a quantidade de valores inteiros X que serão lidos em seguida. 
             Mostre quantos destes valores X estão dentro do intervalo [10,20] e quantos estão fora do intervalo, mostrando 
@@ -21,7 +20,7 @@ namespace Exercicio3._2
             {
                 Console.WriteLine("Digite um valor: ");
                 double X = double.Parse(Console.ReadLine());
-                if(X >= 10 && X <= 20)
+                if (X >= 10 && X <= 20)
                 {
                     In++;
                 }
@@ -32,6 +31,7 @@ namespace Exercicio3._2
             }
             Console.WriteLine(In + " in");
             Console.WriteLine(Out + " Out");
+
         }
     }
 }
