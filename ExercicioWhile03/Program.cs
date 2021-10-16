@@ -17,7 +17,7 @@ namespace ExercicioWhile03
             int alcool = 0;
             int gasolina = 0;
             int diesel = 0;
-            Console.Write("Digite o id do combustivel (1=alcool, 2=gasolina e 3=diesel): ");
+            Console.Write("Digite o id do combustivel (1=alcool, 2=gasolina, 3=diesel e 4=Finalizar): ");
             int tipo = int.Parse(Console.ReadLine());
             while (tipo != 4)
             {
@@ -33,11 +33,10 @@ namespace ExercicioWhile03
                 {
                     diesel = diesel + 1;
                 }
-                else
-                {
-                    Console.Write("Digite o id do combustivel (1=alcool, 2=gasolina e 3=diesel): ");
-                    tipo = int.Parse(Console.ReadLine());
-                }                
+               
+                Console.Write("Digite o id do combustivel (1=alcool, 2=gasolina, 3=diesel e 4=Finalizar): ");
+                tipo = int.Parse(Console.ReadLine());
+                                
             }
             Console.WriteLine("MUITO OBRIGADO");
             Console.WriteLine("Alcool: " + alcool);
