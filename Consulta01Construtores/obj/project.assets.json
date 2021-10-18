@@ -1,0 +1,141 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "Consulta02Sobrecarga/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Consulta02Sobrecarga.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Consulta02Sobrecarga.dll": {}
+        }
+      },
+      "Consulta03Propriedades/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "Consulta04PropriedadesAutoImplementadas": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Consulta03Propriedades.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Consulta03Propriedades.dll": {}
+        }
+      },
+      "Consulta04PropriedadesAutoImplementadas/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Consulta04PropriedadesAutoImplementadas.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Consulta04PropriedadesAutoImplementadas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Consulta02Sobrecarga/1.0.0": {
+      "type": "project",
+      "path": "../Consulta02Sobrecarga/Consulta02Sobrecarga.csproj",
+      "msbuildProject": "../Consulta02Sobrecarga/Consulta02Sobrecarga.csproj"
+    },
+    "Consulta03Propriedades/1.0.0": {
+      "type": "project",
+      "path": "../Consulta03Propriedades/Consulta03Propriedades.csproj",
+      "msbuildProject": "../Consulta03Propriedades/Consulta03Propriedades.csproj"
+    },
+    "Consulta04PropriedadesAutoImplementadas/1.0.0": {
+      "type": "project",
+      "path": "../Consulta04PropriedadesAutoImplementadas/Consulta04PropriedadesAutoImplementadas.csproj",
+      "msbuildProject": "../Consulta04PropriedadesAutoImplementadas/Consulta04PropriedadesAutoImplementadas.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "Consulta02Sobrecarga >= 1.0.0",
+      "Consulta03Propriedades >= 1.0.0",
+      "Consulta04PropriedadesAutoImplementadas >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\rodri\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\rodri\\source\\repos\\ExerciciosCSharp\\Consulta01Construtores\\Consulta01Construtores.csproj",
+      "projectName": "Consulta01Construtores",
+      "projectPath": "C:\\Users\\rodri\\source\\repos\\ExerciciosCSharp\\Consulta01Construtores\\Consulta01Construtores.csproj",
+      "packagesPath": "C:\\Users\\rodri\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\rodri\\source\\repos\\ExerciciosCSharp\\Consulta01Construtores\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\rodri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "C:\\Users\\rodri\\source\\repos\\ExerciciosCSharp\\Consulta02Sobrecarga\\Consulta02Sobrecarga.csproj": {
+              "projectPath": "C:\\Users\\rodri\\source\\repos\\ExerciciosCSharp\\Consulta02Sobrecarga\\Consulta02Sobrecarga.csproj"
+            },
+            "C:\\Users\\rodri\\source\\repos\\ExerciciosCSharp\\Consulta03Propriedades\\Consulta03Propriedades.csproj": {
+              "projectPath": "C:\\Users\\rodri\\source\\repos\\ExerciciosCSharp\\Consulta03Propriedades\\Consulta03Propriedades.csproj"
+            },
+            "C:\\Users\\rodri\\source\\repos\\ExerciciosCSharp\\Consulta04PropriedadesAutoImplementadas\\Consulta04PropriedadesAutoImplementadas.csproj": {
+              "projectPath": "C:\\Users\\rodri\\source\\repos\\ExerciciosCSharp\\Consulta04PropriedadesAutoImplementadas\\Consulta04PropriedadesAutoImplementadas.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

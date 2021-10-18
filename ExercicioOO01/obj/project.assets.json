@@ -16,9 +16,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rodri\\source\\repos\\ExerciciosCSharp\\ExercicioOO01\\ExercicioOO01.csproj",
-      "projectName": "ExercicioOO01",
-      "projectPath": "C:\\Users\\rodri\\source\\repos\\ExerciciosCSharp\\ExercicioOO01\\ExercicioOO01.csproj",
+      "projectUniqueName": "C:\\Users\\rodri\\source\\repos\\ExerciciosCSharp\\ExercicioOO01\\ExercicioClasses01.csproj",
+      "projectName": "ExercicioClasses01",
+      "projectPath": "C:\\Users\\rodri\\source\\repos\\ExerciciosCSharp\\ExercicioOO01\\ExercicioClasses01.csproj",
       "packagesPath": "C:\\Users\\rodri\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\rodri\\source\\repos\\ExerciciosCSharp\\ExercicioOO01\\obj\\",
       "projectStyle": "PackageReference",

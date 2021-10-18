@@ -1,0 +1,16 @@
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioMembrosEstaticos01\bin\Debug\net5.0\ExercicioMembrosEstaticos01.exe
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioMembrosEstaticos01\bin\Debug\net5.0\ExercicioMembrosEstaticos01.deps.json
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioMembrosEstaticos01\bin\Debug\net5.0\ExercicioMembrosEstaticos01.runtimeconfig.json
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioMembrosEstaticos01\bin\Debug\net5.0\ExercicioMembrosEstaticos01.runtimeconfig.dev.json
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioMembrosEstaticos01\bin\Debug\net5.0\ExercicioMembrosEstaticos01.dll
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioMembrosEstaticos01\bin\Debug\net5.0\ref\ExercicioMembrosEstaticos01.dll
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioMembrosEstaticos01\bin\Debug\net5.0\ExercicioMembrosEstaticos01.pdb
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioMembrosEstaticos01\obj\Debug\net5.0\ExercicioMembrosEstaticos01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioMembrosEstaticos01\obj\Debug\net5.0\ExercicioMembrosEstaticos01.AssemblyInfoInputs.cache
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioMembrosEstaticos01\obj\Debug\net5.0\ExercicioMembrosEstaticos01.AssemblyInfo.cs
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioMembrosEstaticos01\obj\Debug\net5.0\ExercicioMembrosEstaticos01.csproj.CoreCompileInputs.cache
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioMembrosEstaticos01\obj\Debug\net5.0\ExercicioMembrosEstaticos01.dll
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioMembrosEstaticos01\obj\Debug\net5.0\ref\ExercicioMembrosEstaticos01.dll
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioMembrosEstaticos01\obj\Debug\net5.0\ExercicioMembrosEstaticos01.pdb
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioMembrosEstaticos01\obj\Debug\net5.0\ExercicioMembrosEstaticos01.genruntimeconfig.cache
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioMembrosEstaticos01\obj\Debug\net5.0\ExercicioMembrosEstaticos01.csproj.AssemblyReference.cache
