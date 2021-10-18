@@ -1,0 +1,16 @@
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioOO02\bin\Debug\net5.0\ExercicioOO02.exe
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioOO02\bin\Debug\net5.0\ExercicioOO02.deps.json
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioOO02\bin\Debug\net5.0\ExercicioOO02.runtimeconfig.json
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioOO02\bin\Debug\net5.0\ExercicioOO02.runtimeconfig.dev.json
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioOO02\bin\Debug\net5.0\ExercicioOO02.dll
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioOO02\bin\Debug\net5.0\ref\ExercicioOO02.dll
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioOO02\bin\Debug\net5.0\ExercicioOO02.pdb
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioOO02\obj\Debug\net5.0\ExercicioOO02.csproj.AssemblyReference.cache
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioOO02\obj\Debug\net5.0\ExercicioOO02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioOO02\obj\Debug\net5.0\ExercicioOO02.AssemblyInfoInputs.cache
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioOO02\obj\Debug\net5.0\ExercicioOO02.AssemblyInfo.cs
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioOO02\obj\Debug\net5.0\ExercicioOO02.csproj.CoreCompileInputs.cache
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioOO02\obj\Debug\net5.0\ExercicioOO02.dll
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioOO02\obj\Debug\net5.0\ref\ExercicioOO02.dll
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioOO02\obj\Debug\net5.0\ExercicioOO02.pdb
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioOO02\obj\Debug\net5.0\ExercicioOO02.genruntimeconfig.cache
