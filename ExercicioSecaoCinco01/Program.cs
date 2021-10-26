@@ -32,8 +32,8 @@ namespace ExercicioSecaoCinco01
 
             double saldo = 0.00;
             Console.Write("Haverá depósito inicial (s/n)?");
-            string pergunta = Console.ReadLine();
-            if(pergunta == "S" || pergunta == "s")
+            char pergunta = char.Parse(Console.ReadLine());
+            if(pergunta == 'S' || pergunta == 's')
             {
                 Console.Write("Valor do depósito inicial: ");
                 saldo = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
@@ -42,6 +42,8 @@ namespace ExercicioSecaoCinco01
             Conta conta01 = new Conta(numero, nomeTitular, saldo);
             Console.WriteLine("\nDados da conta:");
             Console.WriteLine(conta01);
+
+
 
             Console.Write("\nEntre um valor para dépósito: ");
             conta01.Deposito(double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture));

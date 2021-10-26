@@ -1,0 +1,15 @@
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioListas01-02-Corrigido\bin\Debug\net5.0\ExercicioListas01-02-Corrigido.exe
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioListas01-02-Corrigido\bin\Debug\net5.0\ExercicioListas01-02-Corrigido.deps.json
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioListas01-02-Corrigido\bin\Debug\net5.0\ExercicioListas01-02-Corrigido.runtimeconfig.json
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioListas01-02-Corrigido\bin\Debug\net5.0\ExercicioListas01-02-Corrigido.runtimeconfig.dev.json
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioListas01-02-Corrigido\bin\Debug\net5.0\ExercicioListas01-02-Corrigido.dll
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioListas01-02-Corrigido\bin\Debug\net5.0\ref\ExercicioListas01-02-Corrigido.dll
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioListas01-02-Corrigido\bin\Debug\net5.0\ExercicioListas01-02-Corrigido.pdb
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioListas01-02-Corrigido\obj\Debug\net5.0\ExercicioListas01-02-Corrigido.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioListas01-02-Corrigido\obj\Debug\net5.0\ExercicioListas01-02-Corrigido.AssemblyInfoInputs.cache
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioListas01-02-Corrigido\obj\Debug\net5.0\ExercicioListas01-02-Corrigido.AssemblyInfo.cs
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioListas01-02-Corrigido\obj\Debug\net5.0\ExercicioListas01-02-Corrigido.csproj.CoreCompileInputs.cache
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioListas01-02-Corrigido\obj\Debug\net5.0\ExercicioListas01-02-Corrigido.dll
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioListas01-02-Corrigido\obj\Debug\net5.0\ref\ExercicioListas01-02-Corrigido.dll
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioListas01-02-Corrigido\obj\Debug\net5.0\ExercicioListas01-02-Corrigido.pdb
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioListas01-02-Corrigido\obj\Debug\net5.0\ExercicioListas01-02-Corrigido.genruntimeconfig.cache

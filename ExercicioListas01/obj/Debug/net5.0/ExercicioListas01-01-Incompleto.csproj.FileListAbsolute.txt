@@ -1,0 +1,15 @@
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioListas01\bin\Debug\net5.0\ExercicioListas01-01-Incompleto.exe
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioListas01\bin\Debug\net5.0\ExercicioListas01-01-Incompleto.deps.json
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioListas01\bin\Debug\net5.0\ExercicioListas01-01-Incompleto.runtimeconfig.json
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioListas01\bin\Debug\net5.0\ExercicioListas01-01-Incompleto.runtimeconfig.dev.json
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioListas01\bin\Debug\net5.0\ExercicioListas01-01-Incompleto.dll
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioListas01\bin\Debug\net5.0\ref\ExercicioListas01-01-Incompleto.dll
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioListas01\bin\Debug\net5.0\ExercicioListas01-01-Incompleto.pdb
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioListas01\obj\Debug\net5.0\ExercicioListas01-01-Incompleto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioListas01\obj\Debug\net5.0\ExercicioListas01-01-Incompleto.AssemblyInfoInputs.cache
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioListas01\obj\Debug\net5.0\ExercicioListas01-01-Incompleto.AssemblyInfo.cs
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioListas01\obj\Debug\net5.0\ExercicioListas01-01-Incompleto.csproj.CoreCompileInputs.cache
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioListas01\obj\Debug\net5.0\ExercicioListas01-01-Incompleto.dll
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioListas01\obj\Debug\net5.0\ref\ExercicioListas01-01-Incompleto.dll
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioListas01\obj\Debug\net5.0\ExercicioListas01-01-Incompleto.pdb
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioListas01\obj\Debug\net5.0\ExercicioListas01-01-Incompleto.genruntimeconfig.cache

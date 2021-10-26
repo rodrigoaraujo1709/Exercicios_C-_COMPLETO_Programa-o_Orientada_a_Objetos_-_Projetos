@@ -1,0 +1,16 @@
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioListas01\bin\Debug\net5.0\ExercicioListas01.exe
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioListas01\bin\Debug\net5.0\ExercicioListas01.deps.json
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioListas01\bin\Debug\net5.0\ExercicioListas01.runtimeconfig.json
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioListas01\bin\Debug\net5.0\ExercicioListas01.runtimeconfig.dev.json
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioListas01\bin\Debug\net5.0\ExercicioListas01.dll
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioListas01\bin\Debug\net5.0\ref\ExercicioListas01.dll
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioListas01\bin\Debug\net5.0\ExercicioListas01.pdb
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioListas01\obj\Debug\net5.0\ExercicioListas01.csproj.AssemblyReference.cache
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioListas01\obj\Debug\net5.0\ExercicioListas01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioListas01\obj\Debug\net5.0\ExercicioListas01.AssemblyInfoInputs.cache
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioListas01\obj\Debug\net5.0\ExercicioListas01.AssemblyInfo.cs
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioListas01\obj\Debug\net5.0\ExercicioListas01.csproj.CoreCompileInputs.cache
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioListas01\obj\Debug\net5.0\ExercicioListas01.dll
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioListas01\obj\Debug\net5.0\ref\ExercicioListas01.dll
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioListas01\obj\Debug\net5.0\ExercicioListas01.pdb
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioListas01\obj\Debug\net5.0\ExercicioListas01.genruntimeconfig.cache

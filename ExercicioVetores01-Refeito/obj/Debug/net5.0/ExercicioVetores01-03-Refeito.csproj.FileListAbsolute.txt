@@ -1,0 +1,16 @@
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioVetores01-Refeito\bin\Debug\net5.0\ExercicioVetores01-03-Refeito.exe
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioVetores01-Refeito\bin\Debug\net5.0\ExercicioVetores01-03-Refeito.deps.json
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioVetores01-Refeito\bin\Debug\net5.0\ExercicioVetores01-03-Refeito.runtimeconfig.json
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioVetores01-Refeito\bin\Debug\net5.0\ExercicioVetores01-03-Refeito.runtimeconfig.dev.json
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioVetores01-Refeito\bin\Debug\net5.0\ExercicioVetores01-03-Refeito.dll
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioVetores01-Refeito\bin\Debug\net5.0\ref\ExercicioVetores01-03-Refeito.dll
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioVetores01-Refeito\bin\Debug\net5.0\ExercicioVetores01-03-Refeito.pdb
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioVetores01-Refeito\obj\Debug\net5.0\ExercicioVetores01-03-Refeito.csproj.AssemblyReference.cache
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioVetores01-Refeito\obj\Debug\net5.0\ExercicioVetores01-03-Refeito.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioVetores01-Refeito\obj\Debug\net5.0\ExercicioVetores01-03-Refeito.AssemblyInfoInputs.cache
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioVetores01-Refeito\obj\Debug\net5.0\ExercicioVetores01-03-Refeito.AssemblyInfo.cs
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioVetores01-Refeito\obj\Debug\net5.0\ExercicioVetores01-03-Refeito.csproj.CoreCompileInputs.cache
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioVetores01-Refeito\obj\Debug\net5.0\ExercicioVetores01-03-Refeito.dll
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioVetores01-Refeito\obj\Debug\net5.0\ref\ExercicioVetores01-03-Refeito.dll
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioVetores01-Refeito\obj\Debug\net5.0\ExercicioVetores01-03-Refeito.pdb
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioVetores01-Refeito\obj\Debug\net5.0\ExercicioVetores01-03-Refeito.genruntimeconfig.cache

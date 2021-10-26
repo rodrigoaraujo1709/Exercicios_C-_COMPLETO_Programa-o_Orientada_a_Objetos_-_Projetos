@@ -1,0 +1,15 @@
+C:\Users\rodri\source\repos\ExerciciosCSharp\testevetor\bin\Debug\net5.0\testevetor.exe
+C:\Users\rodri\source\repos\ExerciciosCSharp\testevetor\bin\Debug\net5.0\testevetor.deps.json
+C:\Users\rodri\source\repos\ExerciciosCSharp\testevetor\bin\Debug\net5.0\testevetor.runtimeconfig.json
+C:\Users\rodri\source\repos\ExerciciosCSharp\testevetor\bin\Debug\net5.0\testevetor.runtimeconfig.dev.json
+C:\Users\rodri\source\repos\ExerciciosCSharp\testevetor\bin\Debug\net5.0\testevetor.dll
+C:\Users\rodri\source\repos\ExerciciosCSharp\testevetor\bin\Debug\net5.0\ref\testevetor.dll
+C:\Users\rodri\source\repos\ExerciciosCSharp\testevetor\bin\Debug\net5.0\testevetor.pdb
+C:\Users\rodri\source\repos\ExerciciosCSharp\testevetor\obj\Debug\net5.0\testevetor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\source\repos\ExerciciosCSharp\testevetor\obj\Debug\net5.0\testevetor.AssemblyInfoInputs.cache
+C:\Users\rodri\source\repos\ExerciciosCSharp\testevetor\obj\Debug\net5.0\testevetor.AssemblyInfo.cs
+C:\Users\rodri\source\repos\ExerciciosCSharp\testevetor\obj\Debug\net5.0\testevetor.csproj.CoreCompileInputs.cache
+C:\Users\rodri\source\repos\ExerciciosCSharp\testevetor\obj\Debug\net5.0\testevetor.dll
+C:\Users\rodri\source\repos\ExerciciosCSharp\testevetor\obj\Debug\net5.0\ref\testevetor.dll
+C:\Users\rodri\source\repos\ExerciciosCSharp\testevetor\obj\Debug\net5.0\testevetor.pdb
+C:\Users\rodri\source\repos\ExerciciosCSharp\testevetor\obj\Debug\net5.0\testevetor.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioVetores01\bin\Debug\net5.0\ExercicioVetores01.exe
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioVetores01\bin\Debug\net5.0\ExercicioVetores01.deps.json
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioVetores01\bin\Debug\net5.0\ExercicioVetores01.runtimeconfig.json
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioVetores01\bin\Debug\net5.0\ExercicioVetores01.runtimeconfig.dev.json
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioVetores01\bin\Debug\net5.0\ExercicioVetores01.dll
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioVetores01\bin\Debug\net5.0\ref\ExercicioVetores01.dll
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioVetores01\bin\Debug\net5.0\ExercicioVetores01.pdb
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioVetores01\obj\Debug\net5.0\ExercicioVetores01.csproj.AssemblyReference.cache
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioVetores01\obj\Debug\net5.0\ExercicioVetores01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioVetores01\obj\Debug\net5.0\ExercicioVetores01.AssemblyInfoInputs.cache
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioVetores01\obj\Debug\net5.0\ExercicioVetores01.AssemblyInfo.cs
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioVetores01\obj\Debug\net5.0\ExercicioVetores01.csproj.CoreCompileInputs.cache
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioVetores01\obj\Debug\net5.0\ExercicioVetores01.dll
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioVetores01\obj\Debug\net5.0\ref\ExercicioVetores01.dll
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioVetores01\obj\Debug\net5.0\ExercicioVetores01.pdb
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioVetores01\obj\Debug\net5.0\ExercicioVetores01.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\rodri\source\repos\ExerciciosCSharp\ConsoleApp4\bin\Debug\net5.0\TestesDeInicializacao.exe
+C:\Users\rodri\source\repos\ExerciciosCSharp\ConsoleApp4\bin\Debug\net5.0\TestesDeInicializacao.deps.json
+C:\Users\rodri\source\repos\ExerciciosCSharp\ConsoleApp4\bin\Debug\net5.0\TestesDeInicializacao.runtimeconfig.json
+C:\Users\rodri\source\repos\ExerciciosCSharp\ConsoleApp4\bin\Debug\net5.0\TestesDeInicializacao.runtimeconfig.dev.json
+C:\Users\rodri\source\repos\ExerciciosCSharp\ConsoleApp4\bin\Debug\net5.0\TestesDeInicializacao.dll
+C:\Users\rodri\source\repos\ExerciciosCSharp\ConsoleApp4\bin\Debug\net5.0\ref\TestesDeInicializacao.dll
+C:\Users\rodri\source\repos\ExerciciosCSharp\ConsoleApp4\bin\Debug\net5.0\TestesDeInicializacao.pdb
+C:\Users\rodri\source\repos\ExerciciosCSharp\ConsoleApp4\obj\Debug\net5.0\TestesDeInicializacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\source\repos\ExerciciosCSharp\ConsoleApp4\obj\Debug\net5.0\TestesDeInicializacao.AssemblyInfoInputs.cache
+C:\Users\rodri\source\repos\ExerciciosCSharp\ConsoleApp4\obj\Debug\net5.0\TestesDeInicializacao.AssemblyInfo.cs
+C:\Users\rodri\source\repos\ExerciciosCSharp\ConsoleApp4\obj\Debug\net5.0\TestesDeInicializacao.csproj.CoreCompileInputs.cache
+C:\Users\rodri\source\repos\ExerciciosCSharp\ConsoleApp4\obj\Debug\net5.0\TestesDeInicializacao.dll
+C:\Users\rodri\source\repos\ExerciciosCSharp\ConsoleApp4\obj\Debug\net5.0\ref\TestesDeInicializacao.dll
+C:\Users\rodri\source\repos\ExerciciosCSharp\ConsoleApp4\obj\Debug\net5.0\TestesDeInicializacao.pdb
+C:\Users\rodri\source\repos\ExerciciosCSharp\ConsoleApp4\obj\Debug\net5.0\TestesDeInicializacao.genruntimeconfig.cache

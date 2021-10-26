@@ -1,0 +1,15 @@
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioVetores01-Corrigido\bin\Debug\net5.0\ExercicioVetores01-Corrigido.exe
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioVetores01-Corrigido\bin\Debug\net5.0\ExercicioVetores01-Corrigido.deps.json
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioVetores01-Corrigido\bin\Debug\net5.0\ExercicioVetores01-Corrigido.runtimeconfig.json
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioVetores01-Corrigido\bin\Debug\net5.0\ExercicioVetores01-Corrigido.runtimeconfig.dev.json
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioVetores01-Corrigido\bin\Debug\net5.0\ExercicioVetores01-Corrigido.dll
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioVetores01-Corrigido\bin\Debug\net5.0\ref\ExercicioVetores01-Corrigido.dll
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioVetores01-Corrigido\bin\Debug\net5.0\ExercicioVetores01-Corrigido.pdb
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioVetores01-Corrigido\obj\Debug\net5.0\ExercicioVetores01-Corrigido.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioVetores01-Corrigido\obj\Debug\net5.0\ExercicioVetores01-Corrigido.AssemblyInfoInputs.cache
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioVetores01-Corrigido\obj\Debug\net5.0\ExercicioVetores01-Corrigido.AssemblyInfo.cs
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioVetores01-Corrigido\obj\Debug\net5.0\ExercicioVetores01-Corrigido.csproj.CoreCompileInputs.cache
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioVetores01-Corrigido\obj\Debug\net5.0\ExercicioVetores01-Corrigido.dll
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioVetores01-Corrigido\obj\Debug\net5.0\ref\ExercicioVetores01-Corrigido.dll
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioVetores01-Corrigido\obj\Debug\net5.0\ExercicioVetores01-Corrigido.pdb
+C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioVetores01-Corrigido\obj\Debug\net5.0\ExercicioVetores01-Corrigido.genruntimeconfig.cache
