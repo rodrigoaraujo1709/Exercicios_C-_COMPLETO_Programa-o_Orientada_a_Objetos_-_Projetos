@@ -1,0 +1,16 @@
+C:\Users\rodri\source\repos\ExerciciosCSharp\RascunhoSecao07\obj\Debug\net5.0\RascunhoSecao07.csproj.AssemblyReference.cache
+C:\Users\rodri\source\repos\ExerciciosCSharp\RascunhoSecao07\obj\Debug\net5.0\RascunhoSecao07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\source\repos\ExerciciosCSharp\RascunhoSecao07\obj\Debug\net5.0\RascunhoSecao07.AssemblyInfoInputs.cache
+C:\Users\rodri\source\repos\ExerciciosCSharp\RascunhoSecao07\obj\Debug\net5.0\RascunhoSecao07.AssemblyInfo.cs
+C:\Users\rodri\source\repos\ExerciciosCSharp\RascunhoSecao07\obj\Debug\net5.0\RascunhoSecao07.csproj.CoreCompileInputs.cache
+C:\Users\rodri\source\repos\ExerciciosCSharp\RascunhoSecao07\bin\Debug\net5.0\RascunhoSecao07.exe
+C:\Users\rodri\source\repos\ExerciciosCSharp\RascunhoSecao07\bin\Debug\net5.0\RascunhoSecao07.deps.json
+C:\Users\rodri\source\repos\ExerciciosCSharp\RascunhoSecao07\bin\Debug\net5.0\RascunhoSecao07.runtimeconfig.json
+C:\Users\rodri\source\repos\ExerciciosCSharp\RascunhoSecao07\bin\Debug\net5.0\RascunhoSecao07.runtimeconfig.dev.json
+C:\Users\rodri\source\repos\ExerciciosCSharp\RascunhoSecao07\bin\Debug\net5.0\RascunhoSecao07.dll
+C:\Users\rodri\source\repos\ExerciciosCSharp\RascunhoSecao07\bin\Debug\net5.0\ref\RascunhoSecao07.dll
+C:\Users\rodri\source\repos\ExerciciosCSharp\RascunhoSecao07\bin\Debug\net5.0\RascunhoSecao07.pdb
+C:\Users\rodri\source\repos\ExerciciosCSharp\RascunhoSecao07\obj\Debug\net5.0\RascunhoSecao07.dll
+C:\Users\rodri\source\repos\ExerciciosCSharp\RascunhoSecao07\obj\Debug\net5.0\ref\RascunhoSecao07.dll
+C:\Users\rodri\source\repos\ExerciciosCSharp\RascunhoSecao07\obj\Debug\net5.0\RascunhoSecao07.pdb
+C:\Users\rodri\source\repos\ExerciciosCSharp\RascunhoSecao07\obj\Debug\net5.0\RascunhoSecao07.genruntimeconfig.cache

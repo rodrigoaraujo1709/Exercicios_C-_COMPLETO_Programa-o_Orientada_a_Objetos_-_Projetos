@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "RascunhoSecao07/1.0.0": {
+        "runtime": {
+          "RascunhoSecao07.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RascunhoSecao07/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
