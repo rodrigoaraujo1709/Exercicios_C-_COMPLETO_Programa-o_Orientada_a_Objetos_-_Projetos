@@ -125,25 +125,29 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Rascunhos", "ConsoleApp4\Ra
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02-Listas", "02-Listas", "{C6E3C602-C0AE-49AB-BC03-0117FA7C6163}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercicioListas01-01-Incompleto", "ExercicioListas01\ExercicioListas01-01-Incompleto.csproj", "{9FF669F3-4BC1-4A7B-9A0C-E5AD2B3AF713}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExercicioListas01-01-Incompleto", "ExercicioListas01\ExercicioListas01-01-Incompleto.csproj", "{9FF669F3-4BC1-4A7B-9A0C-E5AD2B3AF713}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercicioListas01-02-Corrigido", "ExercicioListas01-02-Corrigido\ExercicioListas01-02-Corrigido.csproj", "{7D8249BE-A03D-4132-8CFB-71D048A9C611}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExercicioListas01-02-Corrigido", "ExercicioListas01-02-Corrigido\ExercicioListas01-02-Corrigido.csproj", "{7D8249BE-A03D-4132-8CFB-71D048A9C611}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercicioListas01-03-Refeito", "ExercicioListas01-03-Refeito\ExercicioListas01-03-Refeito.csproj", "{B20E71DA-4101-41B9-8B03-FB1C627DBFFF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExercicioListas01-03-Refeito", "ExercicioListas01-03-Refeito\ExercicioListas01-03-Refeito.csproj", "{B20E71DA-4101-41B9-8B03-FB1C627DBFFF}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03-Matriz", "03-Matriz", "{0EBAC8A5-B026-4B8E-A031-92235966EA99}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercicioMatriz01-01-Feito", "ExercicioMatriz01\ExercicioMatriz01-01-Feito.csproj", "{43F2E23E-125F-466B-B019-093E71E49989}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExercicioMatriz01-01-Feito", "ExercicioMatriz01\ExercicioMatriz01-01-Feito.csproj", "{43F2E23E-125F-466B-B019-093E71E49989}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercicioMatriz01-02-Corrigido", "ExercicioMatriz01-02-Corrigido\ExercicioMatriz01-02-Corrigido.csproj", "{5DB9D83F-0C36-4A15-8482-F2643DF0259A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExercicioMatriz01-02-Corrigido", "ExercicioMatriz01-02-Corrigido\ExercicioMatriz01-02-Corrigido.csproj", "{5DB9D83F-0C36-4A15-8482-F2643DF0259A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercicioMatriz02-01-Errado", "ExercicioMatriz02\ExercicioMatriz02-01-Errado.csproj", "{816359DD-B430-4A4A-B780-906076E7D9BC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExercicioMatriz02-01-Errado", "ExercicioMatriz02\ExercicioMatriz02-01-Errado.csproj", "{816359DD-B430-4A4A-B780-906076E7D9BC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercicioMatriz02-02-Corrigido", "ExercicioMatriz02-02-Corrigido\ExercicioMatriz02-02-Corrigido.csproj", "{2E1C9F28-8A3B-45CA-A970-4CA8BA640A6F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExercicioMatriz02-02-Corrigido", "ExercicioMatriz02-02-Corrigido\ExercicioMatriz02-02-Corrigido.csproj", "{2E1C9F28-8A3B-45CA-A970-4CA8BA640A6F}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Secao07", "Secao07", "{7F4072D2-3EE3-4048-859A-C9D3597D8104}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RascunhoSecao07", "RascunhoSecao07\RascunhoSecao07.csproj", "{146A5AD9-D52C-4255-B1E7-75EB05BB2F2C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RascunhoSecao07", "RascunhoSecao07\RascunhoSecao07.csproj", "{146A5AD9-D52C-4255-B1E7-75EB05BB2F2C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Secao08", "Secao08", "{42DD8088-0C33-47D7-8932-4B61CE96B517}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RascunhoSecao08", "RascunhoSecao08\RascunhoSecao08.csproj", "{4995B44E-6B3F-42FD-891D-ECE9F08573D6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -371,6 +375,10 @@ Global
 		{146A5AD9-D52C-4255-B1E7-75EB05BB2F2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{146A5AD9-D52C-4255-B1E7-75EB05BB2F2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{146A5AD9-D52C-4255-B1E7-75EB05BB2F2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4995B44E-6B3F-42FD-891D-ECE9F08573D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4995B44E-6B3F-42FD-891D-ECE9F08573D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4995B44E-6B3F-42FD-891D-ECE9F08573D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4995B44E-6B3F-42FD-891D-ECE9F08573D6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -441,6 +449,7 @@ Global
 		{816359DD-B430-4A4A-B780-906076E7D9BC} = {0EBAC8A5-B026-4B8E-A031-92235966EA99}
 		{2E1C9F28-8A3B-45CA-A970-4CA8BA640A6F} = {0EBAC8A5-B026-4B8E-A031-92235966EA99}
 		{146A5AD9-D52C-4255-B1E7-75EB05BB2F2C} = {7F4072D2-3EE3-4048-859A-C9D3597D8104}
+		{4995B44E-6B3F-42FD-891D-ECE9F08573D6} = {42DD8088-0C33-47D7-8932-4B61CE96B517}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {1A1EE13F-7B42-4CDE-8670-784BCB373EAA}
