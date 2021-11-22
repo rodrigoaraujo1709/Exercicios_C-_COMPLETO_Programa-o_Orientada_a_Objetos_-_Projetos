@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Estudo\\source\\repos\\CSharpExercicios\\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\\ExercicioCond08\\ExercicioCond08.csproj": {}
+    "C:\\Users\\RodrigoAraujoLeitePe\\source\\repos\\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\\ExercicioCond08\\ExercicioCond08.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Estudo\\source\\repos\\CSharpExercicios\\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\\ExercicioCond08\\ExercicioCond08.csproj": {
+    "C:\\Users\\RodrigoAraujoLeitePe\\source\\repos\\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\\ExercicioCond08\\ExercicioCond08.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Estudo\\source\\repos\\CSharpExercicios\\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\\ExercicioCond08\\ExercicioCond08.csproj",
+        "projectUniqueName": "C:\\Users\\RodrigoAraujoLeitePe\\source\\repos\\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\\ExercicioCond08\\ExercicioCond08.csproj",
         "projectName": "ExercicioCond08",
-        "projectPath": "C:\\Users\\Estudo\\source\\repos\\CSharpExercicios\\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\\ExercicioCond08\\ExercicioCond08.csproj",
-        "packagesPath": "C:\\Users\\Estudo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Estudo\\source\\repos\\CSharpExercicios\\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\\ExercicioCond08\\obj\\",
+        "projectPath": "C:\\Users\\RodrigoAraujoLeitePe\\source\\repos\\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\\ExercicioCond08\\ExercicioCond08.csproj",
+        "packagesPath": "C:\\Users\\RodrigoAraujoLeitePe\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\RodrigoAraujoLeitePe\\source\\repos\\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\\ExercicioCond08\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\Estudo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\RodrigoAraujoLeitePe\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
@@ -60,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.209\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }

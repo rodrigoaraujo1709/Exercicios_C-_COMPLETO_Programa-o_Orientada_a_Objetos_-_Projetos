@@ -8,25 +8,25 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Estudo\\.nuget\\packages\\": {},
+    "C:\\Users\\RodrigoAraujoLeitePe\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Estudo\\source\\repos\\CSharpExercicios\\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\\ExercicioListas01-03-Refeito\\ExercicioListas01-03-Refeito.csproj",
+      "projectUniqueName": "C:\\Users\\RodrigoAraujoLeitePe\\source\\repos\\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\\ExercicioListas01-03-Refeito\\ExercicioListas01-03-Refeito.csproj",
       "projectName": "ExercicioListas01-03-Refeito",
-      "projectPath": "C:\\Users\\Estudo\\source\\repos\\CSharpExercicios\\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\\ExercicioListas01-03-Refeito\\ExercicioListas01-03-Refeito.csproj",
-      "packagesPath": "C:\\Users\\Estudo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Estudo\\source\\repos\\CSharpExercicios\\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\\ExercicioListas01-03-Refeito\\obj\\",
+      "projectPath": "C:\\Users\\RodrigoAraujoLeitePe\\source\\repos\\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\\ExercicioListas01-03-Refeito\\ExercicioListas01-03-Refeito.csproj",
+      "packagesPath": "C:\\Users\\RodrigoAraujoLeitePe\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\RodrigoAraujoLeitePe\\source\\repos\\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\\ExercicioListas01-03-Refeito\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\Estudo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\RodrigoAraujoLeitePe\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
@@ -68,7 +68,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.209\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
       }
     }
   }
