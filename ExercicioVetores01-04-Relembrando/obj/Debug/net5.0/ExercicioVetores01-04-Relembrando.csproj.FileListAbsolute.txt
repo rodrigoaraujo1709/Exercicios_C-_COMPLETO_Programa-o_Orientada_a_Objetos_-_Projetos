@@ -1,0 +1,16 @@
+C:\Users\RodrigoAraujoLeitePe\source\repos\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\ExercicioVetores01-04-Relembrando\bin\Debug\net5.0\ExercicioVetores01-04-Relembrando.exe
+C:\Users\RodrigoAraujoLeitePe\source\repos\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\ExercicioVetores01-04-Relembrando\bin\Debug\net5.0\ExercicioVetores01-04-Relembrando.deps.json
+C:\Users\RodrigoAraujoLeitePe\source\repos\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\ExercicioVetores01-04-Relembrando\bin\Debug\net5.0\ExercicioVetores01-04-Relembrando.runtimeconfig.json
+C:\Users\RodrigoAraujoLeitePe\source\repos\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\ExercicioVetores01-04-Relembrando\bin\Debug\net5.0\ExercicioVetores01-04-Relembrando.runtimeconfig.dev.json
+C:\Users\RodrigoAraujoLeitePe\source\repos\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\ExercicioVetores01-04-Relembrando\bin\Debug\net5.0\ExercicioVetores01-04-Relembrando.dll
+C:\Users\RodrigoAraujoLeitePe\source\repos\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\ExercicioVetores01-04-Relembrando\bin\Debug\net5.0\ref\ExercicioVetores01-04-Relembrando.dll
+C:\Users\RodrigoAraujoLeitePe\source\repos\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\ExercicioVetores01-04-Relembrando\bin\Debug\net5.0\ExercicioVetores01-04-Relembrando.pdb
+C:\Users\RodrigoAraujoLeitePe\source\repos\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\ExercicioVetores01-04-Relembrando\obj\Debug\net5.0\ExercicioVetores01-04-Relembrando.csproj.AssemblyReference.cache
+C:\Users\RodrigoAraujoLeitePe\source\repos\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\ExercicioVetores01-04-Relembrando\obj\Debug\net5.0\ExercicioVetores01-04-Relembrando.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RodrigoAraujoLeitePe\source\repos\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\ExercicioVetores01-04-Relembrando\obj\Debug\net5.0\ExercicioVetores01-04-Relembrando.AssemblyInfoInputs.cache
+C:\Users\RodrigoAraujoLeitePe\source\repos\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\ExercicioVetores01-04-Relembrando\obj\Debug\net5.0\ExercicioVetores01-04-Relembrando.AssemblyInfo.cs
+C:\Users\RodrigoAraujoLeitePe\source\repos\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\ExercicioVetores01-04-Relembrando\obj\Debug\net5.0\ExercicioVetores01-04-Relembrando.csproj.CoreCompileInputs.cache
+C:\Users\RodrigoAraujoLeitePe\source\repos\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\ExercicioVetores01-04-Relembrando\obj\Debug\net5.0\ExercicioVetores01-04-Relembrando.dll
+C:\Users\RodrigoAraujoLeitePe\source\repos\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\ExercicioVetores01-04-Relembrando\obj\Debug\net5.0\ref\ExercicioVetores01-04-Relembrando.dll
+C:\Users\RodrigoAraujoLeitePe\source\repos\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\ExercicioVetores01-04-Relembrando\obj\Debug\net5.0\ExercicioVetores01-04-Relembrando.pdb
+C:\Users\RodrigoAraujoLeitePe\source\repos\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\ExercicioVetores01-04-Relembrando\obj\Debug\net5.0\ExercicioVetores01-04-Relembrando.genruntimeconfig.cache
