@@ -12,9 +12,8 @@ namespace ExercicioVetores01_04_Relembrando.Entities
         private string LocatarioNome { get; set; }
         private string LocatarioEmail { get; set; }
 
-        public Quarto(int nrQuarto, string locatarioNome, string locatarioEmail)
+        public Quarto(string locatarioNome, string locatarioEmail)
         {
-            NrQuarto = nrQuarto;
             LocatarioNome = locatarioNome;
             LocatarioEmail = locatarioEmail;
         }
