@@ -7,20 +7,26 @@ namespace ExercicioVetores01_04_Relembrando
     {
         static void Main(string[] args)
         {
-            Quarto[] quartos = new Quarto[9];
+            const int qntdQuartos = 3;
+            Quarto[] quartos = new Quarto[qntdQuartos];
 
             Console.Write("Quantos estudantes vão alugar quartos? ");
-            int QtdEstudantes = int.Parse(Console.ReadLine());
-            while (QtdEstudantes < 1 || QtdEstudantes > 10)
+            int qntdEstudantes = int.Parse(Console.ReadLine());
+            while (qntdEstudantes < 1 || qntdEstudantes > qntdQuartos)
             {
-                Console.WriteLine("Digite um numero de 1 a 10");
-                QtdEstudantes = int.Parse(Console.ReadLine());
+                Console.WriteLine("Digite um numero de 1 a " + qntdQuartos);
+                qntdEstudantes = int.Parse(Console.ReadLine());
             }
             int nrQuarto;
-            for (int i = 1; i <= QtdEstudantes; i++)
+            for (int i = 1; i <= qntdEstudantes; i++)
             {
                 Console.Write("Digite o numero do quarto: ");
                 nrQuarto = int.Parse(Console.ReadLine());
+                while (nrQuarto < 1 || nrQuarto > qntdQuartos)
+                {
+                    Console.WriteLine("Digite um numero de 1 a " + qntdQuartos);
+                    nrQuarto = int.Parse(Console.ReadLine());
+                }
 
                 Console.Write("Nome: ");
                 string locatarioNome = Console.ReadLine();
@@ -33,7 +39,10 @@ namespace ExercicioVetores01_04_Relembrando
             }
 
 
-            
+
+
+
+
 
         }
     }
