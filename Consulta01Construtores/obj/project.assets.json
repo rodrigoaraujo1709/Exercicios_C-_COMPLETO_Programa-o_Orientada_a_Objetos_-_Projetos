@@ -62,28 +62,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\RodrigoAraujoLeitePe\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\rodri\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\RodrigoAraujoLeitePe\\source\\repos\\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\\Consulta01Construtores\\Consulta01Construtores.csproj",
+      "projectUniqueName": "C:\\Projetos Estudo\\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\\Consulta01Construtores\\Consulta01Construtores.csproj",
       "projectName": "Consulta01Construtores",
-      "projectPath": "C:\\Users\\RodrigoAraujoLeitePe\\source\\repos\\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\\Consulta01Construtores\\Consulta01Construtores.csproj",
-      "packagesPath": "C:\\Users\\RodrigoAraujoLeitePe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\RodrigoAraujoLeitePe\\source\\repos\\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\\Consulta01Construtores\\obj\\",
+      "projectPath": "C:\\Projetos Estudo\\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\\Consulta01Construtores\\Consulta01Construtores.csproj",
+      "packagesPath": "C:\\Users\\rodri\\.nuget\\packages\\",
+      "outputPath": "C:\\Projetos Estudo\\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\\Consulta01Construtores\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\RodrigoAraujoLeitePe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\rodri\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -96,14 +93,14 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\RodrigoAraujoLeitePe\\source\\repos\\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\\Consulta02Sobrecarga\\Consulta02Sobrecarga.csproj": {
-              "projectPath": "C:\\Users\\RodrigoAraujoLeitePe\\source\\repos\\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\\Consulta02Sobrecarga\\Consulta02Sobrecarga.csproj"
+            "C:\\Projetos Estudo\\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\\Consulta02Sobrecarga\\Consulta02Sobrecarga.csproj": {
+              "projectPath": "C:\\Projetos Estudo\\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\\Consulta02Sobrecarga\\Consulta02Sobrecarga.csproj"
             },
-            "C:\\Users\\RodrigoAraujoLeitePe\\source\\repos\\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\\Consulta03Propriedades\\Consulta03Propriedades.csproj": {
-              "projectPath": "C:\\Users\\RodrigoAraujoLeitePe\\source\\repos\\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\\Consulta03Propriedades\\Consulta03Propriedades.csproj"
+            "C:\\Projetos Estudo\\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\\Consulta03Propriedades\\Consulta03Propriedades.csproj": {
+              "projectPath": "C:\\Projetos Estudo\\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\\Consulta03Propriedades\\Consulta03Propriedades.csproj"
             },
-            "C:\\Users\\RodrigoAraujoLeitePe\\source\\repos\\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\\Consulta04PropriedadesAutoImplementadas\\Consulta04PropriedadesAutoImplementadas.csproj": {
-              "projectPath": "C:\\Users\\RodrigoAraujoLeitePe\\source\\repos\\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\\Consulta04PropriedadesAutoImplementadas\\Consulta04PropriedadesAutoImplementadas.csproj"
+            "C:\\Projetos Estudo\\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\\Consulta04PropriedadesAutoImplementadas\\Consulta04PropriedadesAutoImplementadas.csproj": {
+              "projectPath": "C:\\Projetos Estudo\\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\\Consulta04PropriedadesAutoImplementadas\\Consulta04PropriedadesAutoImplementadas.csproj"
             }
           }
         }
@@ -132,7 +129,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }

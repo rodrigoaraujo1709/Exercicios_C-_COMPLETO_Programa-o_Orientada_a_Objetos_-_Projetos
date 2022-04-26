@@ -8,28 +8,25 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\RodrigoAraujoLeitePe\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\rodri\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\RodrigoAraujoLeitePe\\source\\repos\\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\\RascunhoSecao07\\RascunhoSecao07.csproj",
+      "projectUniqueName": "C:\\Projetos Estudo\\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\\RascunhoSecao07\\RascunhoSecao07.csproj",
       "projectName": "RascunhoSecao07",
-      "projectPath": "C:\\Users\\RodrigoAraujoLeitePe\\source\\repos\\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\\RascunhoSecao07\\RascunhoSecao07.csproj",
-      "packagesPath": "C:\\Users\\RodrigoAraujoLeitePe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\RodrigoAraujoLeitePe\\source\\repos\\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\\RascunhoSecao07\\obj\\",
+      "projectPath": "C:\\Projetos Estudo\\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\\RascunhoSecao07\\RascunhoSecao07.csproj",
+      "packagesPath": "C:\\Users\\rodri\\.nuget\\packages\\",
+      "outputPath": "C:\\Projetos Estudo\\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\\RascunhoSecao07\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\RodrigoAraujoLeitePe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\rodri\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -68,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }
