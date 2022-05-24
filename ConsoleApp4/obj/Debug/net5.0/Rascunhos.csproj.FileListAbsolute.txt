@@ -14,3 +14,19 @@ C:\Users\rodri\source\repos\ExerciciosCSharp\ConsoleApp4\obj\Debug\net5.0\ref\Ra
 C:\Users\rodri\source\repos\ExerciciosCSharp\ConsoleApp4\obj\Debug\net5.0\Rascunhos.pdb
 C:\Users\rodri\source\repos\ExerciciosCSharp\ConsoleApp4\obj\Debug\net5.0\Rascunhos.genruntimeconfig.cache
 C:\Users\rodri\source\repos\ExerciciosCSharp\ConsoleApp4\obj\Debug\net5.0\Rascunhos.csproj.AssemblyReference.cache
+C:\Projetos Estudo\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\ConsoleApp4\bin\Debug\net5.0\Rascunhos.exe
+C:\Projetos Estudo\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\ConsoleApp4\bin\Debug\net5.0\Rascunhos.deps.json
+C:\Projetos Estudo\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\ConsoleApp4\bin\Debug\net5.0\Rascunhos.runtimeconfig.json
+C:\Projetos Estudo\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\ConsoleApp4\bin\Debug\net5.0\Rascunhos.runtimeconfig.dev.json
+C:\Projetos Estudo\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\ConsoleApp4\bin\Debug\net5.0\Rascunhos.dll
+C:\Projetos Estudo\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\ConsoleApp4\bin\Debug\net5.0\ref\Rascunhos.dll
+C:\Projetos Estudo\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\ConsoleApp4\bin\Debug\net5.0\Rascunhos.pdb
+C:\Projetos Estudo\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\ConsoleApp4\obj\Debug\net5.0\Rascunhos.csproj.AssemblyReference.cache
+C:\Projetos Estudo\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\ConsoleApp4\obj\Debug\net5.0\Rascunhos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos Estudo\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\ConsoleApp4\obj\Debug\net5.0\Rascunhos.AssemblyInfoInputs.cache
+C:\Projetos Estudo\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\ConsoleApp4\obj\Debug\net5.0\Rascunhos.AssemblyInfo.cs
+C:\Projetos Estudo\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\ConsoleApp4\obj\Debug\net5.0\Rascunhos.csproj.CoreCompileInputs.cache
+C:\Projetos Estudo\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\ConsoleApp4\obj\Debug\net5.0\Rascunhos.dll
+C:\Projetos Estudo\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\ConsoleApp4\obj\Debug\net5.0\ref\Rascunhos.dll
+C:\Projetos Estudo\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\ConsoleApp4\obj\Debug\net5.0\Rascunhos.pdb
+C:\Projetos Estudo\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\ConsoleApp4\obj\Debug\net5.0\Rascunhos.genruntimeconfig.cache
