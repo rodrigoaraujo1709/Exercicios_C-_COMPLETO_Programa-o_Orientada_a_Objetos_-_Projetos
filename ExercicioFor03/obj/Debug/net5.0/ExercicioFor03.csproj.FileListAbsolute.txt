@@ -14,3 +14,19 @@ C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioFor03\obj\Debug\net5.0\Exe
 C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioFor03\obj\Debug\net5.0\ref\ExercicioFor03.dll
 C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioFor03\obj\Debug\net5.0\ExercicioFor03.pdb
 C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioFor03\obj\Debug\net5.0\ExercicioFor03.genruntimeconfig.cache
+C:\Projetos Estudo\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\ExercicioFor03\bin\Debug\net5.0\ExercicioFor03.exe
+C:\Projetos Estudo\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\ExercicioFor03\bin\Debug\net5.0\ExercicioFor03.deps.json
+C:\Projetos Estudo\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\ExercicioFor03\bin\Debug\net5.0\ExercicioFor03.runtimeconfig.json
+C:\Projetos Estudo\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\ExercicioFor03\bin\Debug\net5.0\ExercicioFor03.runtimeconfig.dev.json
+C:\Projetos Estudo\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\ExercicioFor03\bin\Debug\net5.0\ExercicioFor03.dll
+C:\Projetos Estudo\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\ExercicioFor03\bin\Debug\net5.0\ref\ExercicioFor03.dll
+C:\Projetos Estudo\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\ExercicioFor03\bin\Debug\net5.0\ExercicioFor03.pdb
+C:\Projetos Estudo\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\ExercicioFor03\obj\Debug\net5.0\ExercicioFor03.csproj.AssemblyReference.cache
+C:\Projetos Estudo\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\ExercicioFor03\obj\Debug\net5.0\ExercicioFor03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos Estudo\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\ExercicioFor03\obj\Debug\net5.0\ExercicioFor03.AssemblyInfoInputs.cache
+C:\Projetos Estudo\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\ExercicioFor03\obj\Debug\net5.0\ExercicioFor03.AssemblyInfo.cs
+C:\Projetos Estudo\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\ExercicioFor03\obj\Debug\net5.0\ExercicioFor03.csproj.CoreCompileInputs.cache
+C:\Projetos Estudo\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\ExercicioFor03\obj\Debug\net5.0\ExercicioFor03.dll
+C:\Projetos Estudo\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\ExercicioFor03\obj\Debug\net5.0\ref\ExercicioFor03.dll
+C:\Projetos Estudo\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\ExercicioFor03\obj\Debug\net5.0\ExercicioFor03.pdb
+C:\Projetos Estudo\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\ExercicioFor03\obj\Debug\net5.0\ExercicioFor03.genruntimeconfig.cache

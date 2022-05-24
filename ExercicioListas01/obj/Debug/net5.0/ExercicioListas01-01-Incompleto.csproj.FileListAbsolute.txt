@@ -13,3 +13,19 @@ C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioListas01\obj\Debug\net5.0\
 C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioListas01\obj\Debug\net5.0\ref\ExercicioListas01-01-Incompleto.dll
 C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioListas01\obj\Debug\net5.0\ExercicioListas01-01-Incompleto.pdb
 C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioListas01\obj\Debug\net5.0\ExercicioListas01-01-Incompleto.genruntimeconfig.cache
+C:\Projetos Estudo\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\ExercicioListas01\bin\Debug\net5.0\ExercicioListas01-01-Incompleto.exe
+C:\Projetos Estudo\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\ExercicioListas01\bin\Debug\net5.0\ExercicioListas01-01-Incompleto.deps.json
+C:\Projetos Estudo\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\ExercicioListas01\bin\Debug\net5.0\ExercicioListas01-01-Incompleto.runtimeconfig.json
+C:\Projetos Estudo\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\ExercicioListas01\bin\Debug\net5.0\ExercicioListas01-01-Incompleto.runtimeconfig.dev.json
+C:\Projetos Estudo\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\ExercicioListas01\bin\Debug\net5.0\ExercicioListas01-01-Incompleto.dll
+C:\Projetos Estudo\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\ExercicioListas01\bin\Debug\net5.0\ref\ExercicioListas01-01-Incompleto.dll
+C:\Projetos Estudo\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\ExercicioListas01\bin\Debug\net5.0\ExercicioListas01-01-Incompleto.pdb
+C:\Projetos Estudo\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\ExercicioListas01\obj\Debug\net5.0\ExercicioListas01-01-Incompleto.csproj.AssemblyReference.cache
+C:\Projetos Estudo\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\ExercicioListas01\obj\Debug\net5.0\ExercicioListas01-01-Incompleto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos Estudo\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\ExercicioListas01\obj\Debug\net5.0\ExercicioListas01-01-Incompleto.AssemblyInfoInputs.cache
+C:\Projetos Estudo\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\ExercicioListas01\obj\Debug\net5.0\ExercicioListas01-01-Incompleto.AssemblyInfo.cs
+C:\Projetos Estudo\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\ExercicioListas01\obj\Debug\net5.0\ExercicioListas01-01-Incompleto.csproj.CoreCompileInputs.cache
+C:\Projetos Estudo\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\ExercicioListas01\obj\Debug\net5.0\ExercicioListas01-01-Incompleto.dll
+C:\Projetos Estudo\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\ExercicioListas01\obj\Debug\net5.0\ref\ExercicioListas01-01-Incompleto.dll
+C:\Projetos Estudo\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\ExercicioListas01\obj\Debug\net5.0\ExercicioListas01-01-Incompleto.pdb
+C:\Projetos Estudo\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\ExercicioListas01\obj\Debug\net5.0\ExercicioListas01-01-Incompleto.genruntimeconfig.cache

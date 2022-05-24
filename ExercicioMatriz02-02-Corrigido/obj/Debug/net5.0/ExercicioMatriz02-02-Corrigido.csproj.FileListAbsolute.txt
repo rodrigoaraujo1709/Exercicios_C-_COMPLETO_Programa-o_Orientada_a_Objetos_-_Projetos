@@ -14,3 +14,19 @@ C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioMatriz02-02-Corrigido\obj\
 C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioMatriz02-02-Corrigido\obj\Debug\net5.0\ref\ExercicioMatriz02-02-Corrigido.dll
 C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioMatriz02-02-Corrigido\obj\Debug\net5.0\ExercicioMatriz02-02-Corrigido.pdb
 C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioMatriz02-02-Corrigido\obj\Debug\net5.0\ExercicioMatriz02-02-Corrigido.genruntimeconfig.cache
+C:\Projetos Estudo\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\ExercicioMatriz02-02-Corrigido\bin\Debug\net5.0\ExercicioMatriz02-02-Corrigido.exe
+C:\Projetos Estudo\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\ExercicioMatriz02-02-Corrigido\bin\Debug\net5.0\ExercicioMatriz02-02-Corrigido.deps.json
+C:\Projetos Estudo\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\ExercicioMatriz02-02-Corrigido\bin\Debug\net5.0\ExercicioMatriz02-02-Corrigido.runtimeconfig.json
+C:\Projetos Estudo\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\ExercicioMatriz02-02-Corrigido\bin\Debug\net5.0\ExercicioMatriz02-02-Corrigido.runtimeconfig.dev.json
+C:\Projetos Estudo\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\ExercicioMatriz02-02-Corrigido\bin\Debug\net5.0\ExercicioMatriz02-02-Corrigido.dll
+C:\Projetos Estudo\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\ExercicioMatriz02-02-Corrigido\bin\Debug\net5.0\ref\ExercicioMatriz02-02-Corrigido.dll
+C:\Projetos Estudo\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\ExercicioMatriz02-02-Corrigido\bin\Debug\net5.0\ExercicioMatriz02-02-Corrigido.pdb
+C:\Projetos Estudo\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\ExercicioMatriz02-02-Corrigido\obj\Debug\net5.0\ExercicioMatriz02-02-Corrigido.csproj.AssemblyReference.cache
+C:\Projetos Estudo\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\ExercicioMatriz02-02-Corrigido\obj\Debug\net5.0\ExercicioMatriz02-02-Corrigido.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos Estudo\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\ExercicioMatriz02-02-Corrigido\obj\Debug\net5.0\ExercicioMatriz02-02-Corrigido.AssemblyInfoInputs.cache
+C:\Projetos Estudo\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\ExercicioMatriz02-02-Corrigido\obj\Debug\net5.0\ExercicioMatriz02-02-Corrigido.AssemblyInfo.cs
+C:\Projetos Estudo\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\ExercicioMatriz02-02-Corrigido\obj\Debug\net5.0\ExercicioMatriz02-02-Corrigido.csproj.CoreCompileInputs.cache
+C:\Projetos Estudo\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\ExercicioMatriz02-02-Corrigido\obj\Debug\net5.0\ExercicioMatriz02-02-Corrigido.dll
+C:\Projetos Estudo\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\ExercicioMatriz02-02-Corrigido\obj\Debug\net5.0\ref\ExercicioMatriz02-02-Corrigido.dll
+C:\Projetos Estudo\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\ExercicioMatriz02-02-Corrigido\obj\Debug\net5.0\ExercicioMatriz02-02-Corrigido.pdb
+C:\Projetos Estudo\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\ExercicioMatriz02-02-Corrigido\obj\Debug\net5.0\ExercicioMatriz02-02-Corrigido.genruntimeconfig.cache

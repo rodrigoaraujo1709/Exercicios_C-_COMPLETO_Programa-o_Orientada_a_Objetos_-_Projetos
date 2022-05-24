@@ -14,3 +14,18 @@ C:\Users\Estudo\source\repos\CSharpExercicios\Exercicios_C-_COMPLETO_Programa-o_
 C:\Users\Estudo\source\repos\CSharpExercicios\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\RascunhoSecao08\obj\Debug\net5.0\ref\RascunhoSecao08.dll
 C:\Users\Estudo\source\repos\CSharpExercicios\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\RascunhoSecao08\obj\Debug\net5.0\RascunhoSecao08.pdb
 C:\Users\Estudo\source\repos\CSharpExercicios\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\RascunhoSecao08\obj\Debug\net5.0\RascunhoSecao08.genruntimeconfig.cache
+C:\Projetos Estudo\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\RascunhoSecao08\bin\Debug\net5.0\RascunhoSecao08.exe
+C:\Projetos Estudo\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\RascunhoSecao08\bin\Debug\net5.0\RascunhoSecao08.deps.json
+C:\Projetos Estudo\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\RascunhoSecao08\bin\Debug\net5.0\RascunhoSecao08.runtimeconfig.json
+C:\Projetos Estudo\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\RascunhoSecao08\bin\Debug\net5.0\RascunhoSecao08.runtimeconfig.dev.json
+C:\Projetos Estudo\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\RascunhoSecao08\bin\Debug\net5.0\RascunhoSecao08.dll
+C:\Projetos Estudo\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\RascunhoSecao08\bin\Debug\net5.0\ref\RascunhoSecao08.dll
+C:\Projetos Estudo\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\RascunhoSecao08\bin\Debug\net5.0\RascunhoSecao08.pdb
+C:\Projetos Estudo\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\RascunhoSecao08\obj\Debug\net5.0\RascunhoSecao08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos Estudo\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\RascunhoSecao08\obj\Debug\net5.0\RascunhoSecao08.AssemblyInfoInputs.cache
+C:\Projetos Estudo\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\RascunhoSecao08\obj\Debug\net5.0\RascunhoSecao08.AssemblyInfo.cs
+C:\Projetos Estudo\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\RascunhoSecao08\obj\Debug\net5.0\RascunhoSecao08.csproj.CoreCompileInputs.cache
+C:\Projetos Estudo\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\RascunhoSecao08\obj\Debug\net5.0\RascunhoSecao08.dll
+C:\Projetos Estudo\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\RascunhoSecao08\obj\Debug\net5.0\ref\RascunhoSecao08.dll
+C:\Projetos Estudo\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\RascunhoSecao08\obj\Debug\net5.0\RascunhoSecao08.pdb
+C:\Projetos Estudo\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\RascunhoSecao08\obj\Debug\net5.0\RascunhoSecao08.genruntimeconfig.cache

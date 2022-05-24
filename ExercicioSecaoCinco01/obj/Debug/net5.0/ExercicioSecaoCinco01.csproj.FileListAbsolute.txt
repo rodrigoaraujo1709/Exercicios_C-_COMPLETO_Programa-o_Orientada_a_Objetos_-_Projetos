@@ -14,3 +14,19 @@ C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioSecaoCinco01\obj\Debug\net
 C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioSecaoCinco01\obj\Debug\net5.0\ExercicioSecaoCinco01.pdb
 C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioSecaoCinco01\obj\Debug\net5.0\ExercicioSecaoCinco01.genruntimeconfig.cache
 C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioSecaoCinco01\obj\Debug\net5.0\ExercicioSecaoCinco01.csproj.AssemblyReference.cache
+C:\Projetos Estudo\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\ExercicioSecaoCinco01\bin\Debug\net5.0\ExercicioSecaoCinco01.exe
+C:\Projetos Estudo\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\ExercicioSecaoCinco01\bin\Debug\net5.0\ExercicioSecaoCinco01.deps.json
+C:\Projetos Estudo\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\ExercicioSecaoCinco01\bin\Debug\net5.0\ExercicioSecaoCinco01.runtimeconfig.json
+C:\Projetos Estudo\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\ExercicioSecaoCinco01\bin\Debug\net5.0\ExercicioSecaoCinco01.runtimeconfig.dev.json
+C:\Projetos Estudo\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\ExercicioSecaoCinco01\bin\Debug\net5.0\ExercicioSecaoCinco01.dll
+C:\Projetos Estudo\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\ExercicioSecaoCinco01\bin\Debug\net5.0\ref\ExercicioSecaoCinco01.dll
+C:\Projetos Estudo\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\ExercicioSecaoCinco01\bin\Debug\net5.0\ExercicioSecaoCinco01.pdb
+C:\Projetos Estudo\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\ExercicioSecaoCinco01\obj\Debug\net5.0\ExercicioSecaoCinco01.csproj.AssemblyReference.cache
+C:\Projetos Estudo\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\ExercicioSecaoCinco01\obj\Debug\net5.0\ExercicioSecaoCinco01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos Estudo\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\ExercicioSecaoCinco01\obj\Debug\net5.0\ExercicioSecaoCinco01.AssemblyInfoInputs.cache
+C:\Projetos Estudo\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\ExercicioSecaoCinco01\obj\Debug\net5.0\ExercicioSecaoCinco01.AssemblyInfo.cs
+C:\Projetos Estudo\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\ExercicioSecaoCinco01\obj\Debug\net5.0\ExercicioSecaoCinco01.csproj.CoreCompileInputs.cache
+C:\Projetos Estudo\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\ExercicioSecaoCinco01\obj\Debug\net5.0\ExercicioSecaoCinco01.dll
+C:\Projetos Estudo\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\ExercicioSecaoCinco01\obj\Debug\net5.0\ref\ExercicioSecaoCinco01.dll
+C:\Projetos Estudo\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\ExercicioSecaoCinco01\obj\Debug\net5.0\ExercicioSecaoCinco01.pdb
+C:\Projetos Estudo\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\ExercicioSecaoCinco01\obj\Debug\net5.0\ExercicioSecaoCinco01.genruntimeconfig.cache

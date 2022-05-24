@@ -14,3 +14,19 @@ C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioVetores01-Refeito\obj\Debu
 C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioVetores01-Refeito\obj\Debug\net5.0\ref\ExercicioVetores01-03-Refeito.dll
 C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioVetores01-Refeito\obj\Debug\net5.0\ExercicioVetores01-03-Refeito.pdb
 C:\Users\rodri\source\repos\ExerciciosCSharp\ExercicioVetores01-Refeito\obj\Debug\net5.0\ExercicioVetores01-03-Refeito.genruntimeconfig.cache
+C:\Projetos Estudo\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\ExercicioVetores01-Refeito\bin\Debug\net5.0\ExercicioVetores01-03-Refeito.exe
+C:\Projetos Estudo\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\ExercicioVetores01-Refeito\bin\Debug\net5.0\ExercicioVetores01-03-Refeito.deps.json
+C:\Projetos Estudo\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\ExercicioVetores01-Refeito\bin\Debug\net5.0\ExercicioVetores01-03-Refeito.runtimeconfig.json
+C:\Projetos Estudo\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\ExercicioVetores01-Refeito\bin\Debug\net5.0\ExercicioVetores01-03-Refeito.runtimeconfig.dev.json
+C:\Projetos Estudo\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\ExercicioVetores01-Refeito\bin\Debug\net5.0\ExercicioVetores01-03-Refeito.dll
+C:\Projetos Estudo\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\ExercicioVetores01-Refeito\bin\Debug\net5.0\ref\ExercicioVetores01-03-Refeito.dll
+C:\Projetos Estudo\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\ExercicioVetores01-Refeito\bin\Debug\net5.0\ExercicioVetores01-03-Refeito.pdb
+C:\Projetos Estudo\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\ExercicioVetores01-Refeito\obj\Debug\net5.0\ExercicioVetores01-03-Refeito.csproj.AssemblyReference.cache
+C:\Projetos Estudo\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\ExercicioVetores01-Refeito\obj\Debug\net5.0\ExercicioVetores01-03-Refeito.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos Estudo\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\ExercicioVetores01-Refeito\obj\Debug\net5.0\ExercicioVetores01-03-Refeito.AssemblyInfoInputs.cache
+C:\Projetos Estudo\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\ExercicioVetores01-Refeito\obj\Debug\net5.0\ExercicioVetores01-03-Refeito.AssemblyInfo.cs
+C:\Projetos Estudo\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\ExercicioVetores01-Refeito\obj\Debug\net5.0\ExercicioVetores01-03-Refeito.csproj.CoreCompileInputs.cache
+C:\Projetos Estudo\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\ExercicioVetores01-Refeito\obj\Debug\net5.0\ExercicioVetores01-03-Refeito.dll
+C:\Projetos Estudo\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\ExercicioVetores01-Refeito\obj\Debug\net5.0\ref\ExercicioVetores01-03-Refeito.dll
+C:\Projetos Estudo\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\ExercicioVetores01-Refeito\obj\Debug\net5.0\ExercicioVetores01-03-Refeito.pdb
+C:\Projetos Estudo\Exercicios_C-_COMPLETO_Programa-o_Orientada_a_Objetos_-_Projetos\ExercicioVetores01-Refeito\obj\Debug\net5.0\ExercicioVetores01-03-Refeito.genruntimeconfig.cache
